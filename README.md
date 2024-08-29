@@ -1,6 +1,6 @@
 # Team 2: The Masters
 
-## Bot name: Ratattack
+## Bot name: Stinger
 
 ### Our Bot Goal:
 * High speed
