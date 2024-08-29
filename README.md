@@ -4,7 +4,7 @@
 
 ## * Cole is the group leader, programmer, and electrical engineer
 ## * Miles is a mechanical engineer, CAD designer, and driver
-## * Gage is a macanical engineer, social media marketer,and a documentation specialist
+## * Gage is a mechanical engineer, social media marketer,and a documentation specialist
 ## * we will all be record keepers.
 
 # Our Bot Goal:
