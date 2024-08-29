@@ -17,3 +17,5 @@
 * Mechanical Engineer, CAD specialist, and driver.
 * ### Gage:
 * Mechanical Engineer, Social Media guy, and Documentation Specialist.
+* ### Obie:
+* Mechanical Engineer, Electrical Engineer, Strategist 
