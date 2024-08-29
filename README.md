@@ -2,15 +2,15 @@
 
 ## Bot name: Ratattack
 
-## * Cole is the group leader, programmer, and electrical engineer
-## * Miles is a mechanical engineer, CAD designer, and driver
-## * Gage is a mechanical engineer, social media marketer,and a documentation specialist
-## * we will all be record keepers.
+* ## Cole is the group leader, programmer, and electrical engineer
+* ## Miles is a mechanical engineer, CAD designer, and driver
+* ## Gage is a mechanical engineer, social media marketer,and a documentation specialist
+* ## we will all be record keepers.
 
 # Our Bot Goal:
-## * High speed
+* ## High speed
 # Our Mechanical design and ideas for the bot:
-### * High gear count transmission (4+ gears)
-### * High power motor
-### * Suspension
-### * Reactive weight to counteract large bumps
+* ### High gear count transmission (4+ gears)
+* ### High power motor
+* ### Suspension
+* ### Reactive weight to counteract large bumps
