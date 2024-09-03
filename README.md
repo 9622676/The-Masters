@@ -20,4 +20,4 @@
 * ### Obie:
 * Mechanical Engineer, Electrical Engineer, Strategist
   
-![title](20240829_123855.jpg).
+![title](https://github.com/9622676/The-Masters/blob/main/Images/20240829_123855.jpg?raw=true)
