@@ -3,7 +3,7 @@
 ## Bot name: Stinger
 
 ### Our Bot Goal:
-* High speed: We want to work with a functional transmition that shifts gears based on speed and power output.
+* High speed: We want to work with a functional transmission that shifts gears based on speed and power output. Using custom parts and a fabricated shell for aerodynamics.
 ### Our Mechanical design and ideas for the bot:
 * Double '|' style chassis
 * High gear count transmission (4+ gears)
