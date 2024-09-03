@@ -19,5 +19,5 @@
 * Mechanical Engineer, Social Media guy, and Documentation Specialist.
 * ### Obie:
 * Mechanical Engineer, Electrical Engineer, Strategist
-
-![title](20240829_123855.jpg)
+Title
+![20240829_123855.jpg]
