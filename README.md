@@ -40,3 +40,10 @@ Analyzes the game rules and scoring to maximize points.
 
 ![title](https://github.com/9622676/The-Masters/blob/main/Images/Fullview.png?raw=true)
 
+![title](https://github.com/9622676/The-Masters/blob/main/Images/front.png?raw=true)
+
+![title](https://github.com/9622676/The-Masters/blob/main/Images/Top.png?raw=true)
+
+![title](https://github.com/9622676/The-Masters/blob/main/Images/Sideview.png?raw=true)
+
+![title](https://github.com/9622676/The-Masters/blob/main/Images/Screenshot%202024-09-11%207.26.42%20PM.png?raw=true)
