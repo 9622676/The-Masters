@@ -49,7 +49,7 @@ Analyzes the game rules and scoring to maximize points.
 ![title](https://github.com/9622676/The-Masters/blob/main/Images/Screenshot%202024-09-11%207.26.42%20PM.png?raw=true)
 
 ## Chassis and Transmission Progress
-![title]()
+![title](<img src="https://github.com/9622676/The-Masters/blob/main/Images/Chassis.jpg?raw=true" alt="Chassis.jpg"/>)
 
 ![title]()
 
