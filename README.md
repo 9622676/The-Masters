@@ -55,4 +55,4 @@ Analyzes the game rules and scoring to maximize points.
 
 ![title](https://github.com/9622676/The-Masters/blob/main/Images/Transmission.jpg?raw=true)
 
-![title]()
+![title](https://github.com/9622676/The-Masters/blob/main/Images/Transmission(2).jpg?raw=true)
