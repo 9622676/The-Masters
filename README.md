@@ -51,7 +51,7 @@ Analyzes the game rules and scoring to maximize points.
 ## Chassis and Transmission Progress
 ![title](https://github.com/9622676/The-Masters/blob/main/Images/Chassis.jpg?raw=true)
 
-![title]()
+![title](https://github.com/9622676/The-Masters/blob/main/Images/Brain.jpg?raw=true)
 
 ![title]()
 
