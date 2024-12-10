@@ -36,8 +36,7 @@ Troubleshoots electrical issues during testing.
 * Strategist: Develops the overall competition strategy.
 Analyzes the game rules and scoring to maximize points.
 
-![title]
-(https://github.com/9622676/The-Masters/blob/main/Images/img_4523.jpg?raw=true)
+![title](https://github.com/9622676/The-Masters/blob/main/Images/IMG_4224.jpeg?raw=true)
 
 ![title](https://github.com/9622676/The-Masters/blob/main/Images/20240829_123855.jpg?raw=true)
 
